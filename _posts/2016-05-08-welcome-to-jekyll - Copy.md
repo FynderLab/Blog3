@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Fynderlab"
+title: "Welcome to Fynderlab fsf"
 date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Put your description here.'
