@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analisando seu código JS com um linter"
+title: "From coding to deployment"
 date: 2015-12-04 22:43:23
 image: '/assets/img/linter/errors-list.png'
 description: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'

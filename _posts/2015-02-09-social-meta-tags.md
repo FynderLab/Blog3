@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Social Meta Tags"
+title: "Deep vision for health care"
 date: 2015-02-09 19:33:48
 image: '/assets/img/dica-rapida-2/main.png'
 description: 'Aprenda como ser mais social, ter maior relevância nas redes sociais e atrair mais usuários.'
